@@ -2,6 +2,7 @@
 
 A simple Sublime plugin to minify the current selection of JavaScript and copy it to the clipboard. this is useful for when you want to quickly copy and paste large or small amounts of code into the console.
 
+# To install
 
 Requires uglifyjs to be installed globally.
 
