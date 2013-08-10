@@ -7,6 +7,10 @@ Requires uglifyjs to be installed globally.
 
 	npm install uglifyjs -g
 
-To use
+# To use
 
 right click on a selection and then click "Minify selection to clipboard"
+
+Or there's also a hot-key binding that defaults to cmd+shift+c (or ctrl+shift+c on linux/window) for OS X.
+
+After that, just paste!
