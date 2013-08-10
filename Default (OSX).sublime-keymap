@@ -1,0 +1,5 @@
+[  
+    {   
+        "keys": ["super+shift+c"], "command": "minify_js_to_clipboard"   
+    }  
+] 

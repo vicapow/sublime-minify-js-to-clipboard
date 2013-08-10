@@ -1,0 +1,5 @@
+[
+	{ "caption": "Minify selection to clipboard"
+	, "command": "minify_js_to_clipboard"
+	}
+]
